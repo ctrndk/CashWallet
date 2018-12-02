@@ -4,7 +4,7 @@
 
 - pkg install git
 - pkg install php
-- ```git clone [https://github.com/ctrndk/CashWallet.git](https://github.com/ctrndk/CashWallet.git)```
+- ```git clone https://github.com/ctrndk/CashWallet.git```
 - cd CashWallet
 - php run.php
 
